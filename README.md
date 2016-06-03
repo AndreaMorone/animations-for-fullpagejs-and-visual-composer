@@ -7,7 +7,7 @@ You have to put this code under the "afterLoad" event that you can find in the E
 ![Screenshot](https://cloud.githubusercontent.com/assets/7823934/15777372/03e66722-298f-11e6-8497-d1e9379dc80c.png)
 
 ##Script
-[View the script here]("https://github.com/AndreaMorone/animations-for-fullpagejs-and-visual-composer/blob/master/script.js")
+[View script.js]("https://github.com/AndreaMorone/animations-for-fullpagejs-and-visual-composer/blob/master/script.js")
 
 #Disclaimer
 The code has been tested on a system with just visual composer and fullpagejs plugins. Maybe other plugins or particular themes may render ineffective the script. Use it at your own risk.
